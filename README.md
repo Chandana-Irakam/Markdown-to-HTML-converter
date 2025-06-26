@@ -40,7 +40,7 @@ This is **bold**, this is *italic*, and this is `inline code`.
 ✅ Output
 The resulting output.html will contain:
 
-html
+html:
 <h1>Hello World</h1>
 <p>This is <strong>bold</strong>, this is <em>italic</em>, and this is <code>inline code</code>.</p>
 <ul>
